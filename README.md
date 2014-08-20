@@ -1,1 +1,1 @@
-This repo contains code my code for OOP Python3
+This repo contains my code for OOP with Python3
